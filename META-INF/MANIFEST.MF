@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: lib/protobuf-java-2.6.1.jar lib/netty-all-5.0.0.Alpha2.jar
+  lib/netty-all-5.0.0.Alpha2-sources.jar
+Main-Class: com.io.netty.sample.QuoteOfTheMomentServer
+
